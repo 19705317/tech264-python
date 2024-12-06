@@ -1,0 +1,279 @@
+    1  git --version
+    2  git config --global user.name "Adrian Borsut"
+    3  git config --global user.email "borsut2307@gmail.com"
+    4  git config --list
+    5  git config --global user.email "19705317@students.lincoln.ac.uk"
+    6  git config --list
+    7  git add --help
+    8  ls
+    9  cd Local-Repo/
+   10  git init
+   11  ls
+   12  cd C:/Users/Adrian/source/repos
+   13  ls -la
+   14  cd learn uni
+   15  ls
+   16  cd 'learn uni'
+   17  ls -la
+   18  cd 'CMP1903M Assessment 1 Base Code'
+   19  ls -la
+   20  git init
+   21  ls -la
+   22  rm -rf .git
+   23  -ls la
+   24  ls -la
+   25  git status
+   26  ls -la
+   27  git config --list
+   28  cd C:/Users/Adrian/Source/repos/learn uni/CMP1903M Assessment 1 Base Code
+   29  ls
+   30  cd C:/Users/adrian/source/repos
+   31  ls
+   32  cd learn uni
+   33  cd 'learn unu'
+   34  cd learn uni/
+   35  cd 'learn unu'/
+   36  cd 'learn uni'/
+   37  ls
+   38  cd 'CMP1903M Assessment 1 Base Code'/
+   39  ls -la
+   40  git init
+   41  ls -la
+   42  git status
+   43  rm -rf .git
+   44  ls -la
+   45  cd 'CMP1903M Assessment 1 Base Code'
+   46  ls -la
+   47  git init
+   48  ls -la
+   49  git status
+   50  pwd
+   51  cd /Users/Adrian/source/repos/NewRepo
+   52  pwd
+   53  cd /Users/Adrian/source/repos
+   54  cd /Users/Adrian/source
+   55  pwd
+   56  cd /Users/Adrian/source
+   57  pwd
+   58  cd /User/Adrian/source
+   59  cd \User\Adrian\source
+   60  cd "/User/Adrian/source"
+   61  cd "c:\Users\Adrian\source\repos"
+   62  pwd
+   63  cd "c:\Users\Adrian\source\repos\NewRepo"
+   64  ls
+   65  git init
+   66  git add .
+   67  git status
+   68  git commit -m "First commit"
+   69  git remote add origin https://github.com/19705317/Assessment-1-RESIT.git
+   70  git push -u origin master
+   71  ls
+   72  git status
+   73  git -m commit "First commit"
+   74  status
+   75  status
+   76  git status
+   77  git commit -m "First commit"
+   78  git push -u origin master
+   79  pwd
+   80  cd "c:\User\Adrian\source\repos\NewRepo\CMP1903M A01 Resit"
+   81  cd "c:\User\Adrian\source\repos\NewRepo\CMP1903M-A01-Resit"
+   82  cd "c:\User\Adrian\source\repos\NewRepo"
+   83  cd "c:/User/Adrian/source/repos/NewRepo"
+   84  cd "c\Users\Adrian\source"
+   85  cd "c:\c\Users\Adrian\source"
+   86  pwd
+   87  cd c:\Users\Adrian\source
+   88  cd \mnt\c\Users\Adrian\source
+   89  cd /mnt/c/Users/Adrian/source
+   90  cd mnt/c/Users/Adrian/source
+   91  git config --global --list
+   92  cd "c:\Users\Adrian\source"
+   93  pwd
+   94  cd "c:\Users\Adrian\source\NewRepo\CMP1903M A01 Resit"
+   95  cd "c:\Users\Adrian\source\NewRepo\CMP1903M-A01-Resit"
+   96  cd "c:\Users\Adrian\source\NewRepo\CMP1903MA01Resit"
+   97  cd "c:\Users\Adrian\source\NewRepo"
+   98  cd "c:\Users\Adrian\source\NewRepo"
+   99  cd "c:\Users\Adrian\source\NewRepo"
+  100  pwd
+  101  cd "c:\Users\Adrian\source\NewRepo"
+  102  cd "c:\Users\Adrian\source\NewRepo"
+  103  cd "c:\Users\\Adrian\source"
+  104  cd "c:\Users\\Adrian\source\NewRepo"
+  105  ls
+  106  -ls
+  107  ls -a
+  108  cd repos
+  109  ls -a
+  110  cd NewRepo
+  111  ls -a
+  112  cd 'CMP1903M A01 RESIT'
+  113  ls -a
+  114  ls -a
+  115  git add .
+  116  git status
+  117  git commit -m "First Commit"
+  118  git remote add origin https://github.com/19705317/Assessment-1-RESIT.git
+  119  git push -u origin master
+  120  cd NewRepo
+  121  cd "c:\User\Adrian\source\repo\NewRepo"
+  122  cd "c:\User\Adrian\source\repos\NewRepo"
+  123  cd c
+  124  cd c\Users\Adrian
+  125  ls -a
+  126  pwd
+  127  cd "c:\Users\Adrian\source\repos\NewRepo"
+  128  ls -a
+  129  git status
+  130  git rm CMP190M A01 RESIT code.cs
+  131  git rm 'CMP190M A01 RESIT code.cs'
+  132  git rm $(git ls-files --deleted)
+  133  git status
+  134  git add -u
+  135  git status
+  136  git commit -m "note"
+  137  gitr status
+  138  git status
+  139  git push -u origin master
+  140  pwd
+  141  cd "c:\Users\Adrian\source\repos\NewRepo"
+  142  ls -a
+  143  git status
+  144  git add -u
+  145  git commit -m "Commit"
+  146  git push -u origin master#
+  147  git push -u origin master
+  148  git init
+  149  git add .
+  150  git status
+  151  git remote add origin https://github.com/19705317/Assessment-1-RESIT.git
+  152  git push -u origin master
+  153  ls -a
+  154  git status
+  155  git push -u origin master
+  156  git fetch origin
+  157  git rebase origin/master
+  158  git reset --soft HEAD1
+  159  git status
+  160  git restore --staged Report.txt
+  161  git status
+  162  git add .
+  163  git status
+  164  git push -u origin master
+  165  git status
+  166  git commit -m "First commit"
+  167  git push -u origin master
+  168  git log --oneline
+  169  git push https://github.com/19705317/Assessment-1-RESIT.git origin master
+  170  git push https://github.com/19705317/Assessment-1-RESIT.git master
+  171  git status
+  172  git add .
+  173  git status
+  174  git commit -m "Update Commit"
+  175  git push -u origin master
+  176  git pull origin master
+  177  git push origin master
+  178  git status
+  179  git add .
+  180  git status
+  181  git push -m origin master
+  182  git push -u origin master
+  183  git status
+  184  cd "c:\Users\Adrian\source\repos\NewRepo
+  185  cd "c:\Users\Adrian\source\repos\NewRepo"
+  186  cd "c:\Users\Adrian\source\repos\NewRepo
+  187  cd "c:\Users\Adrian\source\repos\NewRepo"
+  188  ls -a
+  189  git status
+  190  git pull origin master
+  191  git commit -m "Second Commit"
+  192  git pull origin master
+  193  git status
+  194  git add .
+  195  git status
+  196  git push -u origin master
+  197  git status
+  198  cd "c:\Users\Adrian\source\repos\NewRepo"
+  199  git status
+  200  git add .
+  201  git status
+  202  git commit "Report commit"
+  203  git commit "third commit"
+  204  git status
+  205  git commit -m "Report commit"
+  206  git status
+  207  git push -u origin master
+  208  #!/bin/sh
+  209  TOP=$PWD
+  210  PLATFORM=`uname -s`-`uname -m`			# e.g. Darwin-x86_64 , Linux-x86_64
+  211  mkdir -p platform/$PLATFORM
+  212  cd platform/$PLATFORM
+  213  # default to release build.  set CONFIG=Debug for debug build on osx
+  214  if [ "${CONFIG}" == "" ] ; then   CONFIG="Release"; fi
+  215  GO=make
+  216  CMAKE=cmake
+  217  GENFILE="Unix Makefiles"
+  218  if [ `uname -s` == "Darwin" ] ; then   GENFILE="Xcode";   GO="xcodebuild -configuration ${CONFIG} ";   if [ -f /Applications/CMake.app/Contents/bin/cmake ] ; then   	CMAKE=/Applications/CMake.app/Contents/bin/cmake;   fi; fi
+  219  $CMAKE -G "$GENFILE" -DCMAKE_BUILD_TYPE=${CONFIG} ../../ && $GO
+  220  #!/bin/sh
+  221  TOP=$PWD
+  222  PLATFORM=`uname -s`-`uname -m`			# e.g. Darwin-x86_64 , Linux-x86_64
+  223  mkdir -p platform/$PLATFORM
+  224  cd platform/$PLATFORM
+  225  # default to release build.  set CONFIG=Debug for debug build on osx
+  226  if [ "${CONFIG}" == "" ] ; then   CONFIG="Release"; fi
+  227  GO=make
+  228  CMAKE=cmake
+  229  GENFILE="Unix Makefiles"
+  230  if [ `uname -s` == "Darwin" ] ; then   GENFILE="Xcode";   GO="xcodebuild -configuration ${CONFIG} ";   if [ -f /Applications/CMake.app/Contents/bin/cmake ] ; then   	CMAKE=/Applications/CMake.app/Contents/bin/cmake;   fi; fi
+  231  $CMAKE -G "$GENFILE" -DCMAKE_BUILD_TYPE=${CONFIG} ../../ && $GO
+  232  #!/bin/sh
+  233  TOP=$PWD
+  234  PLATFORM=`uname -s`-`uname -m`			# e.g. Darwin-x86_64 , Linux-x86_64
+  235  mkdir -p platform/$PLATFORM
+  236  cd platform/$PLATFORM
+  237  # default to release build.  set CONFIG=Debug for debug build on osx
+  238  if [ "${CONFIG}" == "" ] ; then   CONFIG="Release"; fi
+  239  GO=make
+  240  CMAKE=cmake
+  241  GENFILE="Unix Makefiles"
+  242  if [ `uname -s` == "Darwin" ] ; then   GENFILE="Xcode";   GO="xcodebuild -configuration ${CONFIG} ";   if [ -f /Applications/CMake.app/Contents/bin/cmake ] ; then   	CMAKE=/Applications/CMake.app/Contents/bin/cmake;   fi; fi
+  243  $CMAKE -G "$GENFILE" -DCMAKE_BUILD_TYPE=${CONFIG} ../../ && $GO
+  244  #!/bin/sh
+  245  TOP=$PWD
+  246  PLATFORM=`uname -s`-`uname -m`			# e.g. Darwin-x86_64 , Linux-x86_64
+  247  mkdir -p platform/$PLATFORM
+  248  cd platform/$PLATFORM
+  249  # default to release build.  set CONFIG=Debug for debug build on osx
+  250  if [ "${CONFIG}" == "" ] ; then   CONFIG="Release"; fi
+  251  GO=make
+  252  CMAKE=cmake
+  253  GENFILE="Unix Makefiles"
+  254  if [ `uname -s` == "Darwin" ] ; then   GENFILE="Xcode";   GO="xcodebuild -configuration ${CONFIG} ";   if [ -f /Applications/CMake.app/Contents/bin/cmake ] ; then   	CMAKE=/Applications/CMake.app/Contents/bin/cmake;   fi; fi
+  255  $CMAKE -G "$GENFILE" -DCMAKE_BUILD_TYPE=${CONFIG} ../../ && $GO
+  256  git --version
+  257  python --version
+  258  git --version
+  259  git status
+  260  git config user.email
+  261  git push
+  262  git status
+  263  git log
+  264  git config user.email
+  265  git diff 35c4e597bf5117ef79d487f3384b08ebc3ebbeb9 0eb610e2b7005ba17bfcc04ec7aa06da6123b84d
+  266  git log
+  267  git checkout 35c4e597bf5117ef79d487f3384b08ebc3ebbeb9
+  268  git checkout m
+  269  git checkout master 
+  270  git ceckout HEAD~1
+  271  git checkout HEAD~1 -- Sparta_Testcode.py
+  272  ls
+  273  ls -a
+  274  git status
+  275  git add .
+  276  git commit -m "resotre commit"
+  277  git status
+  278  history history.txt
+  279  history >history.txt
